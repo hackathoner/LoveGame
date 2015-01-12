@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/pre-dexed/debug/classes-09009256f8552c60e55103e5fa54eb2200f0ba29.jar" />
+    </item>
+    <item
+        jar="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/pre-dexed/debug/classes-cff036e18877d871edff49250422853872d419d9.jar" />
+    </item>
+    <item
+        jar="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d67bb097fa45a6c673f1ba53ed5a97af2ccbd86a.jar" />
+    </item>
+    <item
+        jar="/Users/Anuraag/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-740d20528f304d1a8028448b2cc2c8449d7848a7.jar" />
+    </item>
+
+</items>
