@@ -149,6 +149,7 @@ public class MainActivity extends FragmentActivity {
                     };
                     mytimer.start();
                     myb.setVisibility(View.GONE);
+                    time.setVisibility(View.GONE);
                 }
             });
             pageNumber = (TextView)getActivity().findViewById(R.id.textView2);

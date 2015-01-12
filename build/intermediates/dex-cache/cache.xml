@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/pre-dexed/debug/classes-09009256f8552c60e55103e5fa54eb2200f0ba29.jar" />
-    </item>
-    <item
         jar="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -28,6 +21,13 @@
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
         <dex dex="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-740d20528f304d1a8028448b2cc2c8449d7848a7.jar" />
+    </item>
+    <item
+        jar="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Anuraag/Downloads/LoveActualized/app/build/intermediates/pre-dexed/debug/classes-09009256f8552c60e55103e5fa54eb2200f0ba29.jar" />
     </item>
 
 </items>
